@@ -1,6 +1,6 @@
 # Project n.2 for IOS course at FIT VUT Brno, 2020
 
-## [Assignment](https://github.com/xbartk07/IOS_proj2/blob/master/projekt2.pdf) *(in czech)*
+## [Assignment](https://github.com/xbartk07/IOS_proj2/blob/master/projekt2.pdf) *(in Czech)*
 
 ## Desc
 Implementation of modified Faneuil Hall Problem  
