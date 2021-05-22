@@ -2,7 +2,7 @@
 
 ## [Assignment](https://github.com/xbartk07/IOS_proj2/blob/master/projekt2.pdf) *(in Czech)*
 
-## Desc
+## Description
 Implementation of modified Faneuil Hall Problem  
 For detailed desciption see [Assignment](https://github.com/xbartk07/IOS_proj2/blob/master/projekt2.pdf)  
 
