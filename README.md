@@ -11,10 +11,11 @@ For detailed desciption see [Assignment](https://github.com/xbartk07/IOS_proj2/b
 
 ## Usage
 - Clone & make
-- ./proj2 PI IG JG IT JT  
-PI     // number of immigrants  
-IG     // max  IMM generating                 delay  
-JG     // max  judge returns to building      delay  
-IT     // max  IMM picks up certificate       delay  
-JT     // max  judge confirmes all requests   delay  
+- `./proj2 PI IG JG IT JT`
+  - PI     // number of immigrants  
+  - IG     // max  IMM generating                 delay  
+  - JG     // max  judge returns to building      delay  
+  - IT     // max  IMM picks up certificate       delay  
+  - JT     // max  judge confirmes all requests   delay
+  
 For output see proj2.out
